@@ -1,0 +1,17 @@
+{
+  "name": "bcid",
+  "version": "1.0.0",
+  "description": "Time-orderable, base62 string identifier generator",
+  "main": "bcid.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "bcid",
+    "identifier",
+    "base62"
+  ],
+  "author": "",
+  "license": "MIT"
+} 
